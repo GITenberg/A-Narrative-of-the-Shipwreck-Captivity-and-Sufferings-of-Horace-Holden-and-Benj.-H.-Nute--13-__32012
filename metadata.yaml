@@ -1,0 +1,33 @@
+_repo: A-Narrative-of-the-Shipwreck-Captivity-and-Sufferings-of-Horace-Holden-and-Benj.-H.-Nute--13-__32012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holden, Horace
+    birthdate: 1810
+    gutenberg_agent_id: '35614'
+    url: http://www.gutenberg.org/2009/agents/35614
+description: ''
+gutenberg_issued: '2010-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32012'
+  lccn: ca17000818
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sonsorol-Tobi language'
+- !lcsh 'Nute, Benjamin H.'
+- !lcsh 'Tobi (Palau)'
+- !lcsh 'Shipwrecks -- Palau'
+- !lcsh 'Holden, Horace, 1810-'
+- !lcc 'G'
+title: "A Narrative of the Shipwreck, Captivity and Sufferings of Horace Holden and\
+  \ Benj. H. Nute\r\nWho were cast away in the American ship Mentor, on the Pelew\
+  \ Islands, in the year 1832; and for two years afterwards were subjected to unheard\
+  \ of sufferings among the barbarous inhabitants of Lord North's island"
+url: http://www.gutenberg.org/ebooks/32012
